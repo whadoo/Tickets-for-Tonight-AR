@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8219e3ce5d7661d70f25dab71cc938d0d3c2b042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\.android\build-cache\1ae2453e762c2ad0ac1712d6c0808d5397130061\output\jars\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10\Vuforia_7e1d637e3186cd1106ad7b3d598ee0c11a193c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="6abacaa5e30a0560d48c8da536018c174f4a7fd5">
+        <dex dex="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e40cf38937f5a8be3c44fd89a830a580f4582b8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\.android\build-cache\1ae2453e762c2ad0ac1712d6c0808d5397130061\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10\classes_131cc3a506a68a73ab871bcc103813858cdac4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\.android\build-cache\87f80455eb0edc5cf2e544779825e99d0d4be0c8\output\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10\VuforiaUnityPlayer_33d91f5c92956efaf29ac2d3d44fd99bf19a03a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_f03209c56fce3ec9a5bde44b060dcb68a5d66fba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\.android\build-cache\1ae2453e762c2ad0ac1712d6c0808d5397130061\output\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10\VuforiaUnityPlayer_2a56118f2763abc32e02af9f053a9ccc5a8a52b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\.android\build-cache\87f80455eb0edc5cf2e544779825e99d0d4be0c8\output\jars\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10\Vuforia_a7fa4200e8cadcf07b0b5baf0ad6342924b084e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="a420fe1333d8bc4c8e048f8cbee8900eafaf9435">
+        <dex dex="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3832970bda5a295dd06db62a3745c39a9e39ed30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\.android\build-cache\87f80455eb0edc5cf2e544779825e99d0d4be0c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="C:\Users\Marek\T4T\t4t-ar\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e24aecb8c97e6afe00e46fa39d300857ce3d49b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_f19b80366fed09bd97a0d27338abb78fe0177980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0 rc1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Marek\Google Drive\School\SIT\6. semestr\PDA\Semestral\Vuforia\T4Tvision-PDA\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f3f40d2841ff98e7d049e0f50ada021c963e39b9\classes.dex" />
+    </item>
+
+</items>

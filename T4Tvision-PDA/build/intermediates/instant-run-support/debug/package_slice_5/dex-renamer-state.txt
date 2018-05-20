@@ -1,0 +1,4 @@
+#Sun May 20 14:02:21 CEST 2018
+base.0=C\:\\Users\\Marek\\T4T\\t4t-ar\\T4Tvision-PDA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\Marek\\T4T\\t4t-ar\\T4Tvision-PDA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

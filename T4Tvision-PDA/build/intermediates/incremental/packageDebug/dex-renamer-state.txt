@@ -1,0 +1,7 @@
+#Sun May 20 14:02:24 CEST 2018
+base.0=C\:\\Users\\Marek\\T4T\\t4t-ar\\T4Tvision-PDA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8219e3ce5d7661d70f25dab71cc938d0d3c2b042
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Marek\\T4T\\t4t-ar\\T4Tvision-PDA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e40cf38937f5a8be3c44fd89a830a580f4582b8f\\classes.dex
+base.1=C\:\\Users\\Marek\\T4T\\t4t-ar\\T4Tvision-PDA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e40cf38937f5a8be3c44fd89a830a580f4582b8f
+file.0=C\:\\Users\\Marek\\T4T\\t4t-ar\\T4Tvision-PDA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8219e3ce5d7661d70f25dab71cc938d0d3c2b042\\classes.dex
